@@ -35,7 +35,7 @@ python --version
 2. 安装Pygame库
 pip install pygame
 3. 下载游戏文件
-git clone https://github.com/your-username/alien-invasion.git
+git clone https://github.com/wzf2077/alien-invasion.git
 cd alien-invasion
 4. 运行游戏
 python alien_invasion.py
