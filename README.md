@@ -147,26 +147,47 @@ A D键/左右方向键 调整设置数值
 
 
 alien-invasion/
+
 ├── alien_invasion.py      # 主游戏文件
+
 ├── settings.py            # 游戏设置
+
 ├── game_stats.py          # 游戏统计
+
 ├── scoreboard.py          # 计分板
+
 ├── level_system.py        # 关卡系统
+
 ├── menu.py                # 菜单系统
+
 ├── particle_system.py     # 粒子效果
+
 ├── ship.py                # 飞船类
+
 ├── bullet.py              # 子弹类
+
 ├── alien.py               # 外星人类
+
 ├── alien_bullet.py        # 外星人子弹
+
 ├── button.py              # 按钮类
+
 ├── images/                # 图片资源
+
 │   ├── ship.bmp
+
 │   ├── alien.bmp
+
 │   └── backgrounds/
+
 ├── sounds/                # 音效资源
+
 │   ├── shoot.wav
+
 │   ├── explosion.wav
+
 │   └── shield_hit.wav
+
 └── high_score.json        # 高分记录
 
 
